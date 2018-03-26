@@ -1,0 +1,1 @@
+# Redmine intallation with Nginx
